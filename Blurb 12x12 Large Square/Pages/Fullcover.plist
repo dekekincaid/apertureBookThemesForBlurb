@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elements</key>
+	<array>
+		<dict>
+			<key>alignment</key>
+			<integer>0</integer>
+			<key>center</key>
+			<string>{6.125000,6.000000}</string>
+			<key>identifier</key>
+			<integer>1</integer>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{5.750000,6.000000}</string>
+			</dict>
+			<key>size</key>
+			<string>{10.750000,11.250000}</string>
+			<key>type</key>
+			<string>PhotoCell</string>
+		</dict>
+	</array>
+	<key>type</key>
+	<string>Fullcover</string>
+</dict>
+</plist>

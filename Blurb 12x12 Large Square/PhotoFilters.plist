@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<!-- BLACK AND WHITE --> 
+	<dict>
+		<key>name</key>					<string>BlackAndWhite</string>
+		<key>operations</key>
+		<array>
+			<dict>
+				<key>name</key>			<string>CIColorControls</string>
+				<key>inputSaturation</key>		<real>0</real>
+				<key>inputBrightness</key>		<real>0</real>	
+				<key>inputContrast</key>		<real>1</real>	
+			</dict>
+		</array>	
+	</dict>
+	
+	<dict>
+		<key>name</key>					<string>BlackAndWhiteLightWash</string>
+		<key>operations</key>
+		<array>
+			<dict>
+				<key>name</key>			<string>CIColorControls</string>
+				<key>inputSaturation</key>		<real>0</real>
+				<key>inputBrightness</key>		<real>0</real>	
+				<key>inputContrast</key>		<real>1</real>	
+			</dict>
+			<dict>
+				<key>name</key>			<string>ColorBlend</string>
+				<key>inputColor</key>			<string>{255, 255, 255, 100}</string>
+				<key>inputAmount</key>		<real>0.55</real>	
+			</dict>
+		</array>	
+	</dict>
+
+	<dict>
+		<key>name</key>					<string>BlackAndWhiteStrongWash</string>
+		<key>operations</key>
+		<array>
+			<dict>
+				<key>name</key>			<string>CIColorControls</string>
+				<key>inputSaturation</key>		<real>0</real>
+				<key>inputBrightness</key>		<real>0</real>	
+				<key>inputContrast</key>		<real>1</real>	
+			</dict>
+			<dict>
+				<key>name</key>			<string>ColorBlend</string>
+				<key>inputColor</key>			<string>{255, 255, 255, 100}</string>
+				<key>inputAmount</key>		<real>0.8</real>	
+			</dict>
+		</array>	
+		<key>separator</key>	<true/>
+	</dict>
+
+	<!-- SEPIA --> 
+	<dict>
+		<key>name</key>					<string>Sepia</string>
+		<key>operations</key>
+		<array>
+			<dict>
+				<key>name</key>			<string>CISepiaTone</string>
+				<key>inputIntensity</key>		<real>1.0</real>	
+			</dict>
+		</array>	
+	</dict>
+
+	<dict>
+		<key>name</key>					<string>SepiaLightWash</string>
+		<key>operations</key>
+		<array>
+			<dict>
+				<key>name</key>			<string>CISepiaTone</string>
+				<key>inputIntensity</key>		<real>1.0</real>	
+			</dict>
+			<dict>
+				<key>name</key>			<string>ColorBlend</string>
+				<key>inputColor</key>			<string>{255, 255, 255, 100}</string>
+				<key>inputAmount</key>		<real>0.55</real>	
+			</dict>
+		</array>	
+	</dict>
+
+	<dict>
+		<key>name</key>					<string>SepiaStrongWash</string>
+		<key>operations</key>
+		<array>
+			<dict>
+				<key>name</key>			<string>CISepiaTone</string>
+				<key>inputIntensity</key>		<real>1.0</real>	
+			</dict>
+			<dict>
+				<key>name</key>			<string>ColorBlend</string>
+				<key>inputColor</key>			<string>{255, 255, 255, 100}</string>
+				<key>inputAmount</key>		<real>0.8</real>	
+			</dict>
+		</array>	
+		<key>separator</key>	<true/>
+	</dict>
+
+	<!-- WHITE WASH --> 
+	<dict>
+		<key>name</key>					<string>LightWash</string>
+		<key>operations</key>
+		<array>
+			<dict>
+				<key>name</key>			<string>ColorBlend</string>
+				<key>inputColor</key>			<string>{255, 255, 255, 100}</string>
+				<key>inputAmount</key>		<real>0.55</real>	
+			</dict>
+		</array>	
+	</dict>
+
+	<dict>
+		<key>name</key>					<string>StrongWash</string>
+		<key>operations</key>
+		<array>
+			<dict>
+				<key>name</key>			<string>ColorBlend</string>
+				<key>inputColor</key>			<string>{255, 255, 255, 100}</string>
+				<key>inputAmount</key>		<real>0.8</real>	
+			</dict>
+		</array>	
+	</dict>
+</array>
+</plist>

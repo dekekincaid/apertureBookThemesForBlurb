@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+
+	<dict>
+		<key>name</key>  		<string>PlateCaption</string>
+		<key>format</key>		<string>%@</string>
+		<key>properties</key>
+			<array>    
+				<string>iptcProperties.Caption/Abstract</string>
+			</array> 
+	</dict>
+	<dict>
+		<key>name</key>  		<string>VersionName</string>
+		<key>format</key>		<string>%@</string>
+		<key>properties</key>
+			<array>    
+				<string>basicProperties.VersionName</string>
+			</array> 
+	</dict>
+	<dict>
+		<key>name</key>  		<string>Filename</string>
+		<key>format</key>		<string>%@</string>
+		<key>properties</key>
+			<array>    
+				<string>basicProperties.FileName</string>
+			</array> 
+		<key>separator</key>	<true/>
+	</dict>
+	<dict>
+		<key>name</key>  		<string>Credit</string>
+		<key>format</key>		<string>%@</string>
+		<key>properties</key>
+			<array>    
+				<string>iptcProperties.Credit</string>
+			</array> 
+	</dict>
+	<dict>
+		<key>name</key>  		<string>Copyright</string>
+		<key>format</key>		<string>%@</string>
+		<key>properties</key>
+			<array>    
+				<string>iptcProperties.CopyrightNotice</string>
+			</array> 
+		<key>separator</key>	<true/>
+	</dict>
+	<dict>
+		<key>name</key>  		<string>Comments</string>
+		<key>format</key>		<string>%@</string>
+		<key>properties</key>
+			<array>    
+				<string>basicProperties.Comments</string>
+			</array> 
+	</dict>
+	<dict>
+		<key>name</key>  		<string>Keywords</string>
+		<key>format</key>		<string>%@</string>
+		<key>properties</key>
+			<array>    
+				<string>iptcProperties.Keywords</string>
+			</array> 
+		<key>separator</key>	<true/>
+	</dict>
+	<dict>
+		<key>name</key>  		<string>DateTime</string>
+		<key>format</key>		<string>%@</string>
+		<key>properties</key>
+			<array>    
+				<string>exifProperties.ImageDate</string>
+			</array> 
+	</dict>
+	<dict>
+		<key>name</key>  		<string>Aperture</string>
+		<key>format</key>		<string>%@</string>
+		<key>properties</key>
+			<array>    
+				<string>exifProperties.ApertureValue</string>
+			</array> 
+	</dict>
+	<dict>
+		<key>name</key>  		<string>Shutter</string>
+		<key>format</key>		<string>%@</string>
+		<key>properties</key>
+			<array>    
+				<string>exifProperties.ShutterSpeed</string>
+			</array> 
+	</dict>
+</array>
+</plist>

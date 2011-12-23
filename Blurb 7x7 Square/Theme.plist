@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bottomMargin</key>
+	<string>0.375000</string>
+	<key>defaultInfoFormat</key>
+	<string>PlateCaption</string>
+	<key>defaultTextStyle</key>
+	<string>Contents</string>
+	<key>fullcover</key>
+	<string>Fullcover</string>
+	<key>horizontalSpacing</key>
+	<string>0.050000</string>
+	<key>indexPages</key>
+	<array/>
+	<key>insideMargin</key>
+	<string>0.750000</string>
+	<key>orderedPages</key>
+	<array>
+		<string>Fullcover</string>
+		<string>1UpLayout</string>
+		<string>OnePageBleedLayout</string>
+		<string>TwoPageBleedLayout</string>
+		<string>2UpLayout</string>
+		<string>1Up2UpLayout</string>
+		<string>2Up1UpLayout</string>
+		<string>4UpLayout</string>
+		<string>ModernSectionTextPageLayout</string>
+		<string>ClassicSectionTextPageLayout</string>
+		<string>ModernTextPageLayout</string>
+		<string>ClassicTextPageLayout</string>
+	</array>
+	<key>outsideMargin</key>
+	<string>0.375000</string>
+	<key>pageNumberMargin</key>
+	<string>{3.437500,0.250000}</string>
+	<key>repeatingPages</key>
+	<array>
+		<string>1UpLayout</string>
+		<string>1Up2UpLayout</string>
+		<string>2UpLayout</string>
+		<string>1UpLayout</string>
+		<string>OnePageBleedLayout</string>
+		<string>1UpLayout</string>
+		<string>1UpLayout</string>
+		<string>4UpLayout</string>
+		<string>TwoPageBleedLayout</string>
+		<string>2Up1UpLayout</string>
+		<string>1UpLayout</string>
+	</array>
+	<key>size</key>
+	<string>{6.875000,6.875000}</string>
+	<key>topMargin</key>
+	<string>0.375000</string>
+	<key>trailingPages</key>
+	<array/>
+	<key>type</key>
+	<string>Custom</string>
+	<key>version</key>
+	<integer>1</integer>
+	<key>verticalSpacing</key>
+	<string>0.050000</string>
+</dict>
+</plist>

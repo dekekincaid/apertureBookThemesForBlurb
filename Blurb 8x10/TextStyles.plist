@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>				<string>Title</string>
+		<key>textFont</key>			<string>HelveticaNeue/64</string>
+		<key>textColor</key>		<string>{ 165, 165, 165, 100 }</string>
+	</dict>
+	
+	<dict>
+		<key>name</key>				<string>CoverTitle</string>
+		<key>textFont</key>			<string>HelveticaNeue/40</string>
+		<key>textColor</key>		<string>{ 0, 0, 0, 100 }</string>
+	</dict>
+
+	<dict>
+		<key>name</key>				<string>Contents</string>
+		<key>textFont</key>			<string>HelveticaNeue/17</string>
+		<key>textColor</key>		<string>{ 165, 165, 165, 100 }</string>
+    </dict>
+        
+	<dict>
+		<key>name</key>				<string>PageNumber</string>
+		<key>textFont</key>			<string>HelveticaNeue/10</string>
+		<key>userHidden</key>		<true/>
+    </dict>
+
+	<dict>
+		<key>name</key>				<string>Modern - 40 pt. - White</string>
+		<key>textFont</key>			<string>Gill Sans/40</string>
+		<key>textColor</key>		<string>{ 255, 255, 255, 100 }</string>
+	</dict>
+	<dict>
+		<key>name</key>				<string>Classic - 40 pt. - White</string>
+		<key>textFont</key>			<string>Hoefler Text/40</string>
+		<key>textColor</key>		<string>{ 255, 255, 255, 100 }</string>
+	</dict>
+	<dict>
+		<key>name</key>				<string>Modern - 20 pt. - White</string>
+		<key>textFont</key>			<string>Gill Sans/20</string>
+		<key>textColor</key>		<string>{ 255, 255, 255, 100 }</string>
+	</dict>
+	<dict>
+		<key>name</key>				<string>Classic - 20 pt. - White</string>
+		<key>textFont</key>			<string>Hoefler Text/20</string>
+		<key>textColor</key>		<string>{ 255, 255, 255, 100 }</string>
+	</dict>
+	<dict>
+		<key>name</key>				<string>Modern - 10 pt. - White</string>
+		<key>textFont</key>			<string>Gill Sans/10</string>
+		<key>textColor</key>		<string>{ 255, 255, 255, 100 }</string>
+	</dict>
+	<dict>
+		<key>name</key>				<string>Classic - 10 pt. - White</string>
+		<key>textFont</key>			<string>Hoefler Text/10</string>
+		<key>textColor</key>		<string>{ 255, 255, 255, 100 }</string>
+	</dict>
+	<dict>
+		<key>name</key>				<string>Modern - 5 pt. - White</string>
+		<key>textFont</key>			<string>Gill Sans/5</string>
+		<key>textColor</key>		<string>{ 255, 255, 255, 100 }</string>
+	</dict>
+	<dict>
+		<key>name</key>				<string>Classic - 5pt. - White</string>
+		<key>textFont</key>			<string>Hoefler Text/5</string>
+		<key>textColor</key>		<string>{ 255, 255, 255, 100 }</string>
+	</dict>
+<!--              ================                  -->
+	<dict>
+		<key>name</key>				<string>Modern - 40 pt.</string>
+		<key>textFont</key>			<string>Gill Sans/40</string>
+		<key>textColor</key>		<string>{ 0, 0, 0, 100 }</string>
+	</dict>
+	<dict>
+		<key>name</key>				<string>Classic - 40 pt.</string>
+		<key>textFont</key>			<string>Hoefler Text/40</string>
+		<key>textColor</key>		<string>{ 0, 0, 0, 100 }</string>
+	</dict>
+	<dict>
+		<key>name</key>				<string>Modern - 20 pt.</string>
+		<key>textFont</key>			<string>Gill Sans/20</string>
+		<key>textColor</key>		<string>{ 0, 0, 0, 100 }</string>
+	</dict>
+	<dict>
+		<key>name</key>				<string>Classic - 20 pt.</string>
+		<key>textFont</key>			<string>Hoefler Text/20</string>
+		<key>textColor</key>		<string>{ 0, 0, 0, 100 }</string>
+	</dict>
+	<dict>
+		<key>name</key>				<string>Modern - 10 pt.</string>
+		<key>textFont</key>			<string>Gill Sans/10</string>
+		<key>textColor</key>		<string>{ 0, 0, 0, 100 }</string>
+	</dict>
+	<dict>
+		<key>name</key>				<string>Classic - 10 pt.</string>
+		<key>textFont</key>			<string>Hoefler Text/10</string>
+		<key>textColor</key>		<string>{ 0, 0, 0, 100 }</string>
+	</dict>
+	<dict>
+		<key>name</key>				<string>Modern - 5 pt.</string>
+		<key>textFont</key>			<string>Gill Sans/5</string>
+		<key>textColor</key>		<string>{ 0, 0, 0, 100 }</string>
+	</dict>
+	<dict>
+		<key>name</key>				<string>Classic - 5 pt.</string>
+		<key>textFont</key>			<string>Hoefler Text/5</string>
+		<key>textColor</key>		<string>{ 0, 0, 0, 100 }</string>
+	</dict>
+	<dict>
+		<key>name</key>				<string>Modern Section Page Title Font</string>
+		<key>textFont</key>			<string>Gill Sans/24</string>
+		<key>textColor</key>			<string>{127, 127, 127, 100}</string>
+	</dict>
+	<dict>
+		<key>name</key>				<string>Classic Section Page Title Font</string>
+		<key>textFont</key>			<string>Hoefler Text/24</string>
+		<key>textColor</key>			<string>{127, 127, 127, 100}</string>
+	</dict>
+	<dict>
+		<key>name</key>				<string>Modern Title Font</string>
+		<key>textFont</key>			<string>Gill Sans/18</string>
+		<key>textColor</key>			<string>{127, 127, 127, 100}</string>
+	</dict>
+	<dict>
+		<key>name</key>				<string>Classic Title Font</string>
+		<key>textFont</key>			<string>Hoefler Text/18</string>
+		<key>textColor</key>			<string>{127, 127, 127, 100}</string>
+	</dict>
+	<dict>
+		<key>name</key>				<string>Modern Text Font</string>
+		<key>textFont</key>			<string>Gill Sans/10</string>
+		<key>textColor</key>			<string>{0, 0, 0, 100}</string>
+	</dict>
+	<dict>
+		<key>name</key>				<string>Classic Text Font</string>
+		<key>textFont</key>			<string>Hoefler Text/10</string>
+		<key>textColor</key>			<string>{0, 0, 0, 100}</string>
+	</dict>
+	<dict>
+		<key>name</key>				<string>Modern Page Number Font</string>
+		<key>textFont</key>			<string>Gill Sans/9</string>
+		<key>textColor</key>			<string>{0, 0, 0, 100}</string>
+	</dict>
+	<dict>
+		<key>name</key>				<string>Classic Page Number Font</string>
+		<key>textFont</key>			<string>Hoefler Text/9</string>
+		<key>textColor</key>			<string>{0, 0, 0, 100}</string>
+	</dict>
+
+</array>
+</plist>

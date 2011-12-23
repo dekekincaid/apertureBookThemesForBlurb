@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elements</key>
+	<array>
+		<dict>
+			<key>alignment</key>
+			<string>center</string>
+			<key>center</key>
+			<string>{5.000000,4.125000}</string>
+			<key>default</key>
+			<string>InsertATitle</string>
+			<key>identifier</key>
+			<integer>1</integer>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{4.625000,4.125000}</string>
+			</dict>
+			<key>linespacing</key>
+			<real>28</real>
+			<key>size</key>
+			<string>{4.250000,1.875000}</string>
+			<key>style</key>
+			<string>Modern Section Page Title Font</string>
+			<key>type</key>
+			<string>TextField</string>
+		</dict>
+	</array>
+	<key>type</key>
+	<string>Text</string>
+</dict>
+</plist>
