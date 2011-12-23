@@ -10,13 +10,13 @@
 			<key>identifier</key>
 			<integer>1</integer>
 			<key>size</key>
-			<string>{7.062, 8.625}</string>
-			<key>topLeft</key>
-			<string>{4.000, 8.562}</string>
+			<string>{8.00, 11.00}</string>
+			<key>center</key>
+			<string>{4.0, 5.5}</string>
 			<key>leftPage</key>
 			<dict>
-				<key>topLeft</key>
-				<string>{-0.062, 8.562}</string>
+				<key>center</key>
+				<string>{4.0, 5.5}</string>
 			</dict>
 			<key>type</key>
 			<string>PhotoCell</string>

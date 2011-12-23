@@ -12,13 +12,13 @@
 			<key>identifier</key>
 			<integer>2</integer>
 			<key>size</key>
-			<string>{0.010, 7.500}</string>
-			<key>topLeft</key>
-			<string>{3.745, 8.000}</string>
+			<string>{0.010, 10.125}</string>
+			<key>center</key>
+			<string>{8.50, 5.4375}</string>
 			<key>leftPage</key>
 			<dict>
-				<key>topLeft</key>
-				<string>{7.245, 8.000}</string>
+				<key>center</key>
+				<string>{8.125, 5.4375}</string>
 			</dict>
 			<key>type</key>
 			<string>Graphic</string>
@@ -27,14 +27,14 @@
 			<key>identifier</key>
 			<integer>1</integer>
 			<key>size</key>
-			<string>{6.625, 7.500}</string>
-			<key>topLeft</key>
-			<string>{3.875, 8.000}</string>
+			<string>{7.6, 10.125}</string>
+			<key>center</key>
+			<string>{4.55, 5.4375}</string>
 			<key>leftPage</key>
 			<dict>
-				<key>topLeft</key>
-				<string>{0.500, 8.000}</string>
-			</dict>
+				<key>center</key>
+				<string>{4.175, 5.4375}</string>
+			</dict>			
 			<key>type</key>
 			<string>PhotoCell</string>
 		</dict>

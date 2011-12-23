@@ -12,13 +12,13 @@
 			<key>identifier</key>
 			<integer>5</integer>
 			<key>size</key>
-			<string>{11.500, 10.125}</string>
+			<string>{3.8, 10.0}</string>
 			<key>center</key>
-			<string>{6.5,5.437500}</string>
+			<string>{2.675,5.437500}</string>
 			<key>leftPage</key>
 			<dict>
 				<key>center</key>
-				<string>{6.125,5.437500}</string>
+				<string>{2.3,5.437500}</string>
 			</dict>				
 			<key>type</key>
 			<string>Graphic</string>

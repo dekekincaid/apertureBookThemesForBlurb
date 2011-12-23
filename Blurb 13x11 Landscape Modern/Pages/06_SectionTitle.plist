@@ -12,9 +12,14 @@
 			<key>identifier</key>
 			<integer>4</integer>
 			<key>size</key>
-			<string>{10.000, 0.010}</string>
-			<key>topLeft</key>
-			<string>{0.500, 4.255}</string>
+			<string>{11.500, 0.010}</string>
+			<key>center</key>
+			<string>{6.50,5.2625}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{6.125,5.2625}</string>
+			</dict>			
 			<key>type</key>
 			<string>Graphic</string>
 		</dict>
@@ -25,18 +30,21 @@
 			<integer>4</integer>
 			<key>columnSpacing</key>
 			<real>0.2361111111111111</real>
-			<key>lineSpacing</key>
-			<real>5</real>
 			<key>default</key>
 			<string>InsertTextLong</string>
 			<key>identifier</key>
 			<integer>3</integer>
 			<key>size</key>
-			<string>{10.124, 2.950}</string>
+			<string>{11.500000,4.0875}</string>
 			<key>style</key>
 			<string>Helvetica Neue Light/10/WhiteBackground</string>
-			<key>topLeft</key>
-			<string>{0.438, 3.250}</string>
+			<key>center</key>
+			<string>{6.5,2.41875}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{6.125,2.41875}</string>
+			</dict>	
 			<key>type</key>
 			<string>TextField</string>
 		</dict>
@@ -47,29 +55,38 @@
 			<dict>
 				<key>alignment</key>
 				<string>left</string>
+				<key>center</key>
+				<string>{6.125,4.9625}</string>
 			</dict>
 			<key>default</key>
 			<string>InsertATitle</string>
 			<key>identifier</key>
 			<integer>2</integer>
 			<key>size</key>
-			<string>{10.124, 0.700}</string>
+			<string>{11.500000, 0.700}</string>
 			<key>style</key>
 			<string>Helvetica Neue Light/36/Gray</string>
-			<key>topLeft</key>
-			<string>{0.438, 4.125}</string>
+			<key>center</key>
+			<string>{6.5, 4.9625}</string>
 			<key>type</key>
 			<string>TextField</string>
 		</dict>
 		<dict>
 			<key>identifier</key>
-			<integer>1</integer>
+			<integer>1</integer>			
+			<key>alignment</key>
+			<integer>0</integer>
+			<key>center</key>
+			<string>{6.5,7.981250}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{6.125,7.981250}</string>
+			</dict>
 			<key>size</key>
-			<string>{10.000, 3.625}</string>
-			<key>topLeft</key>
-			<string>{0.500, 8.000}</string>
+			<string>{11.500000,5.037500}</string>
 			<key>type</key>
-			<string>PhotoCell</string>
+			<string>PhotoCell</string>		
 		</dict>
 	</array>
 	<key>type</key>

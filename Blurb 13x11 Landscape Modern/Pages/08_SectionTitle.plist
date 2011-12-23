@@ -12,13 +12,13 @@
 			<key>identifier</key>
 			<integer>4</integer>
 			<key>size</key>
-			<string>{0.010, 7.500}</string>
-			<key>topLeft</key>
-			<string>{7.245, 8.000}</string>
+			<string>{0.010, 10.125}</string>
+			<key>center</key>
+			<string>{4.5, 5.4375}</string>
 			<key>leftPage</key>
 			<dict>
-				<key>topLeft</key>
-				<string>{3.745, 8.000}</string>
+				<key>center</key>
+				<string>{4.125, 5.4375}</string>
 			</dict>
 			<key>type</key>
 			<string>Graphic</string>
@@ -27,16 +27,16 @@
 			<key>identifier</key>
 			<integer>3</integer>
 			<key>size</key>
-			<string>{6.625, 7.500}</string>
-			<key>topLeft</key>
-			<string>{0.500, 8.000}</string>
+			<string>{7.6, 10.125}</string>
+			<key>center</key>
+			<string>{8.450, 5.4375}</string>
 			<key>leftPage</key>
 			<dict>
-				<key>topLeft</key>
-				<string>{3.875, 8.000}</string>
+				<key>center</key>
+				<string>{8.075, 5.4375}</string>
 			</dict>
 			<key>type</key>
-			<string>PhotoCell</string>
+			<string>PhotoCell</string>		
 		</dict>
 		<dict>
 			<key>alignment</key>
@@ -46,15 +46,15 @@
 			<key>identifier</key>
 			<integer>2</integer>
 			<key>size</key>
-			<string>{3.249, 1.700}</string>
+			<string>{3.60,1.750}</string>
 			<key>style</key>
 			<string>Helvetica Neue Light/36/Gray</string>
-			<key>topLeft</key>
-			<string>{7.313, 8.000}</string>
+			<key>center</key>
+			<string>{2.45, 9.625}</string>
 			<key>leftPage</key>
 			<dict>
-				<key>topLeft</key>
-				<string>{0.438, 8.000}</string>
+				<key>center</key>
+				<string>{2.175, 9.625}</string>
 				<key>alignment</key>
 				<string>left</string>
 			</dict>
@@ -69,17 +69,17 @@
 			<key>identifier</key>
 			<integer>1</integer>
 			<key>size</key>
-			<string>{2.374, 5.750}</string>
+			<string>{2.500, 8.250}</string>
 			<key>style</key>
 			<string>Helvetica Neue Light/10/WhiteBackground</string>
 			<key>lineSpacing</key>
 			<real>5</real>
-			<key>topLeft</key>
-			<string>{8.188, 6.250}</string>
+			<key>center</key>
+			<string>{2.00, 4.50}</string>
 			<key>leftPage</key>
 			<dict>
-				<key>topLeft</key>
-				<string>{0.438, 6.250}</string>
+				<key>center</key>
+				<string>{1.625, 4.50}</string>
 			</dict>
 			<key>type</key>
 			<string>TextField</string>

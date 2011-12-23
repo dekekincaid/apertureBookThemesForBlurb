@@ -12,19 +12,29 @@
 			<key>identifier</key>
 			<integer>17</integer>
 			<key>size</key>
-			<string>{10.000, 7.500}</string>
-			<key>topLeft</key>
-			<string>{0.500, 8.000}</string>
+			<string>{11.375, 10.00}</string>
+			<key>center</key>
+			<string>{6.5,5.437500}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{6.125,5.437500}</string>
+			</dict>				
 			<key>type</key>
 			<string>Graphic</string>
-		</dict>
+		</dict>			
 		<dict>
 			<key>identifier</key>
 			<integer>16</integer>
 			<key>size</key>
-			<string>{2.312, 1.688}</string>
-			<key>topLeft</key>
-			<string>{0.500, 8.000}</string>
+			<string>{2.725, 2.38125}</string>
+			<key>center</key>
+			<string>{2.1125, 1.565625}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{1.7375, 1.565625}</string>
+			</dict>				
 			<key>type</key>
 			<string>PhotoCell</string>
 		</dict>
@@ -32,9 +42,14 @@
 			<key>identifier</key>
 			<integer>15</integer>
 			<key>size</key>
-			<string>{2.312, 1.688}</string>
-			<key>topLeft</key>
-			<string>{0.500, 6.062}</string>
+			<string>{2.725, 2.38125}</string>
+			<key>center</key>
+			<string>{2.1125, 4.146875}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{1.7375, 4.146875}</string>
+			</dict>				
 			<key>type</key>
 			<string>PhotoCell</string>
 		</dict>
@@ -42,9 +57,14 @@
 			<key>identifier</key>
 			<integer>14</integer>
 			<key>size</key>
-			<string>{2.312, 1.688}</string>
-			<key>topLeft</key>
-			<string>{0.500, 4.125}</string>
+			<string>{2.725, 2.38125}</string>
+			<key>center</key>
+			<string>{2.1125, 6.728125}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{1.7375, 6.728125}</string>
+			</dict>				
 			<key>type</key>
 			<string>PhotoCell</string>
 		</dict>
@@ -52,9 +72,14 @@
 			<key>identifier</key>
 			<integer>13</integer>
 			<key>size</key>
-			<string>{2.312, 1.688}</string>
-			<key>topLeft</key>
-			<string>{0.500, 2.188}</string>
+			<string>{2.725, 2.38125}</string>
+			<key>center</key>
+			<string>{2.1125, 9.309375}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{1.7375, 9.309375}</string>
+			</dict>				
 			<key>type</key>
 			<string>PhotoCell</string>
 		</dict>
@@ -62,9 +87,14 @@
 			<key>identifier</key>
 			<integer>12</integer>
 			<key>size</key>
-			<string>{2.312, 1.688}</string>
-			<key>topLeft</key>
-			<string>{8.188, 8.000}</string>
+			<string>{2.725, 2.38125}</string>
+			<key>center</key>
+			<string>{5.0375, 1.565625}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{4.6625, 1.565625}</string>
+			</dict>				
 			<key>type</key>
 			<string>PhotoCell</string>
 		</dict>
@@ -72,9 +102,14 @@
 			<key>identifier</key>
 			<integer>11</integer>
 			<key>size</key>
-			<string>{2.312, 1.688}</string>
-			<key>topLeft</key>
-			<string>{8.188, 6.062}</string>
+			<string>{2.725, 2.38125}</string>
+			<key>center</key>
+			<string>{5.0375, 4.146875}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{4.6625, 4.146875}</string>
+			</dict>				
 			<key>type</key>
 			<string>PhotoCell</string>
 		</dict>
@@ -82,9 +117,14 @@
 			<key>identifier</key>
 			<integer>10</integer>
 			<key>size</key>
-			<string>{2.312, 1.688}</string>
-			<key>topLeft</key>
-			<string>{8.188, 4.125}</string>
+			<string>{2.725, 2.38125}</string>
+			<key>center</key>
+			<string>{5.0375, 6.728125}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{4.6625, 6.728125}</string>
+			</dict>				
 			<key>type</key>
 			<string>PhotoCell</string>
 		</dict>
@@ -92,9 +132,14 @@
 			<key>identifier</key>
 			<integer>9</integer>
 			<key>size</key>
-			<string>{2.312, 1.688}</string>
-			<key>topLeft</key>
-			<string>{8.188, 2.188}</string>
+			<string>{2.725, 2.38125}</string>
+			<key>center</key>
+			<string>{5.0375, 9.309375}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{4.6625, 9.309375}</string>
+			</dict>				
 			<key>type</key>
 			<string>PhotoCell</string>
 		</dict>
@@ -102,9 +147,14 @@
 			<key>identifier</key>
 			<integer>8</integer>
 			<key>size</key>
-			<string>{2.312, 1.688}</string>
-			<key>topLeft</key>
-			<string>{5.625, 8.000}</string>
+			<string>{2.725, 2.38125}</string>
+			<key>center</key>
+			<string>{7.9625, 1.565625}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{7.5875, 1.565625}</string>
+			</dict>				
 			<key>type</key>
 			<string>PhotoCell</string>
 		</dict>
@@ -112,9 +162,14 @@
 			<key>identifier</key>
 			<integer>7</integer>
 			<key>size</key>
-			<string>{2.312, 1.688}</string>
-			<key>topLeft</key>
-			<string>{5.625, 6.062}</string>
+			<string>{2.725, 2.38125}</string>
+			<key>center</key>
+			<string>{7.9625, 4.146875}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{7.5875, 4.146875}</string>
+			</dict>				
 			<key>type</key>
 			<string>PhotoCell</string>
 		</dict>
@@ -122,9 +177,14 @@
 			<key>identifier</key>
 			<integer>6</integer>
 			<key>size</key>
-			<string>{2.312, 1.688}</string>
-			<key>topLeft</key>
-			<string>{5.625, 4.125}</string>
+			<string>{2.725, 2.38125}</string>
+			<key>center</key>
+			<string>{7.9625, 6.728125}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{7.5875, 6.728125}</string>
+			</dict>				
 			<key>type</key>
 			<string>PhotoCell</string>
 		</dict>
@@ -132,9 +192,14 @@
 			<key>identifier</key>
 			<integer>5</integer>
 			<key>size</key>
-			<string>{2.312, 1.688}</string>
-			<key>topLeft</key>
-			<string>{5.625, 2.188}</string>
+			<string>{2.725, 2.38125}</string>
+			<key>center</key>
+			<string>{7.9625, 9.309375}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{7.5875, 9.309375}</string>
+			</dict>				
 			<key>type</key>
 			<string>PhotoCell</string>
 		</dict>
@@ -142,9 +207,14 @@
 			<key>identifier</key>
 			<integer>4</integer>
 			<key>size</key>
-			<string>{2.312, 1.688}</string>
-			<key>topLeft</key>
-			<string>{3.062, 8.000}</string>
+			<string>{2.725, 2.38125}</string>
+			<key>center</key>
+			<string>{10.8875, 1.565625}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{10.5125, 1.565625}</string>
+			</dict>				
 			<key>type</key>
 			<string>PhotoCell</string>
 		</dict>
@@ -152,9 +222,14 @@
 			<key>identifier</key>
 			<integer>3</integer>
 			<key>size</key>
-			<string>{2.312, 1.688}</string>
-			<key>topLeft</key>
-			<string>{3.062, 6.062}</string>
+			<string>{2.725, 2.38125}</string>
+			<key>center</key>
+			<string>{10.8875, 4.146875}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{10.5125, 4.146875}</string>
+			</dict>				
 			<key>type</key>
 			<string>PhotoCell</string>
 		</dict>
@@ -162,9 +237,14 @@
 			<key>identifier</key>
 			<integer>2</integer>
 			<key>size</key>
-			<string>{2.312, 1.688}</string>
-			<key>topLeft</key>
-			<string>{3.062, 4.125}</string>
+			<string>{2.725, 2.38125}</string>
+			<key>center</key>
+			<string>{10.8875, 6.728125}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{10.5125, 6.728125}</string>
+			</dict>				
 			<key>type</key>
 			<string>PhotoCell</string>
 		</dict>
@@ -172,9 +252,14 @@
 			<key>identifier</key>
 			<integer>1</integer>
 			<key>size</key>
-			<string>{2.312, 1.688}</string>
-			<key>topLeft</key>
-			<string>{3.062, 2.188}</string>
+			<string>{2.725, 2.38125}</string>
+			<key>center</key>
+			<string>{10.8875, 9.309375}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{10.5125, 9.309375}</string>
+			</dict>				
 			<key>type</key>
 			<string>PhotoCell</string>
 		</dict>

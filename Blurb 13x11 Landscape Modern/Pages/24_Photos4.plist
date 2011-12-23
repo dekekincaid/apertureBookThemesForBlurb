@@ -12,19 +12,29 @@
 			<key>identifier</key>
 			<integer>5</integer>
 			<key>size</key>
-			<string>{3.297, 7.500}</string>
-			<key>topLeft</key>
-			<string>{7.203, 8.000}</string>
+			<string>{3.8, 10.0}</string>
+			<key>center</key>
+			<string>{10.35,5.437500}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{9.975,5.437500}</string>
+			</dict>				
 			<key>type</key>
 			<string>Graphic</string>
-		</dict>
+		</dict>			
 		<dict>
 			<key>identifier</key>
 			<integer>4</integer>
 			<key>size</key>
-			<string>{3.167, 2.333}</string>
-			<key>topLeft</key>
-			<string>{7.333, 8.000}</string>
+			<string>{7.6, 10.125}</string>
+			<key>center</key>
+			<string>{4.55, 5.4375}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{4.175, 5.4375}</string>
+			</dict>			
 			<key>type</key>
 			<string>PhotoCell</string>
 		</dict>
@@ -32,19 +42,29 @@
 			<key>identifier</key>
 			<integer>3</integer>
 			<key>size</key>
-			<string>{6.583, 7.500}</string>
-			<key>topLeft</key>
-			<string>{0.500, 8.000}</string>
+			<string>{3.700, 3.275}</string>
+			<key>center</key>
+			<string>{10.4, 8.8625}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{10.025, 8.8625}</string>
+			</dict>				
 			<key>type</key>
 			<string>PhotoCell</string>
-		</dict>
+		</dict>		
 		<dict>
 			<key>identifier</key>
 			<integer>2</integer>
 			<key>size</key>
-			<string>{3.167, 2.333}</string>
-			<key>topLeft</key>
-			<string>{7.333, 5.417}</string>
+			<string>{3.700, 3.275}</string>
+			<key>center</key>
+			<string>{10.4, 5.4375}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{10.025, 5.4375}</string>
+			</dict>				
 			<key>type</key>
 			<string>PhotoCell</string>
 		</dict>
@@ -52,9 +72,14 @@
 			<key>identifier</key>
 			<integer>1</integer>
 			<key>size</key>
-			<string>{3.167, 2.333}</string>
-			<key>topLeft</key>
-			<string>{7.333, 2.833}</string>
+			<string>{3.700, 3.275}</string>
+			<key>center</key>
+			<string>{10.4, 2.0125}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{10.025, 2.0125}</string>
+			</dict>				
 			<key>type</key>
 			<string>PhotoCell</string>
 		</dict>
