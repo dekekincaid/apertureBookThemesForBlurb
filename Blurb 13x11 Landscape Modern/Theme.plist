@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bottomMargin</key>
+	<string>0.375000</string>
+	<key>horizontalSpacing</key>
+	<string>0.050000</string>
+	<key>pageNumberMargin</key>		<string>{6.312500,0.250000}</string>
+	<key>defaultTextStyle</key>		<string>Helvetica Neue Light/10/WhiteBackground</string>
+	
+	<key>frontSoftcover</key>		<string>01_FrontSoftcover</string>
+	<key>backSoftcover</key>		<string>01_BackSoftcover</string>
+	<key>jacketBackCover</key>		<string>01_JacketBackCover</string>
+	<key>jacketBackFlap</key>		<string>01_JacketBackFlap</string>
+	<key>jacketFrontCover</key>		<string>01_JacketFrontCover</string>
+	<key>jacketFrontFlap</key>		<string>01_JacketFrontFlap</string>
+	<key>indexPages</key>
+	<array/>
+	<key>insideMargin</key>
+	<string>0.750000</string>
+	<key>leadingPages</key>
+	<array>
+		<string>15_Photo</string>
+	</array>
+	<key>outsideMargin</key>
+	<string>0.375000</string>
+	<key>pageNumberMargin</key>
+	<string>{6.312500,0.250000}</string>	
+	<key>repeatingPages</key>
+	<array>
+		<string>15_Photo</string>
+		<string>02_Title</string>
+		<string>19_Photos3</string>
+		<string>15_Photo</string>
+		<string>15_Photo</string>
+		<string>20_Photos3</string>
+		<string>16_Photos2</string>
+		<string>15_Photo</string>
+		<string>10_Photo</string>
+		<string>10_Photo</string>
+		<string>22_Photos4</string>
+		<string>15_Photo</string>
+		<string>15_Photo</string>
+		<string>18_Photos3</string>
+		<string>15_Photo</string>
+		<string>15_Photo</string>
+		<string>21_Photos3</string>
+		<string>15_Photo</string>
+		<string>19_Photos3</string>
+	</array>
+	<key>size</key>
+	<string>{12.625000,10.875000}</string>
+	<key>topMargin</key>
+	<string>0.375000</string>	
+	<key>trailingPages</key>
+	<array/>
+	<key>type</key>
+	<string>Custom</string>
+	<key>version</key>
+	<integer>1</integer>
+	<key>verticalSpacing</key>
+	<string>0.050000</string>
+</dict>
+</plist>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>background</key>
+	<string>BlackBackground</string>
+	<key>elements</key>
+	<array>
+		<dict>
+			<key>graphic</key>
+			<string>1-h-b</string>
+			<key>identifier</key>
+			<integer>4</integer>
+			<key>size</key>
+			<string>{10.000, 3.757}</string>
+			<key>topLeft</key>
+			<string>{0.500, 4.25}</string>
+			<key>type</key>
+			<string>Graphic</string>
+		</dict>
+		<dict>
+			<key>identifier</key>
+			<integer>3</integer>
+			<key>size</key>
+			<string>{11.500000,5.037500}</string>
+			<key>center</key>
+			<string>{6.5,7.981250}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{6.125,7.981250}</string>
+			</dict>			
+			<key>type</key>
+			<string>PhotoCell</string>
+		</dict>
+		<dict>
+			<key>identifier</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{5.725000,5.037500}</string>
+			<key>center</key>
+			<string>{3.612500,2.893750}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{3.237500,2.893750}</string>
+			</dict>			
+			<key>type</key>
+			<string>PhotoCell</string>
+		</dict>
+		<dict>
+			<key>identifier</key>
+			<integer>1</integer>
+			<key>size</key>
+			<string>{5.725000,5.037500}</string>
+			<key>center</key>
+			<string>{9.387500,2.893750}</string>
+			<key>leftPage</key>
+			<dict>
+				<key>center</key>
+				<string>{9.012500,2.893750}</string>
+			</dict>			
+			<key>type</key>
+			<string>PhotoCell</string>
+		</dict>
+	</array>
+	<key>type</key>
+	<string>Photos</string>
+</dict>
+</plist>

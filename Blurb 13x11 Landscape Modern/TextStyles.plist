@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Helvetica Neue Light/36/Gray</string>
+		<key>textColor</key>
+		<string>{ 129, 131, 134, 100 }</string>
+		<key>textFont</key>
+		<string>Helvetica Neue Light/36</string>
+	</dict>
+	<!--dict>
+		<key>name</key>
+		<string>Helvetica Neue Light/36/231F20</string>
+		<key>textColor</key>
+		<string>{ 35, 31, 32, 100 }</string>
+		<key>textFont</key>
+		<string>Helvetica Neue Light/36</string>
+	</dict-->
+	<dict>
+		<key>name</key>
+		<string>Helvetica Neue Light/36/WhiteBackground</string>
+		<key>textColor</key>
+		<string>{ 255, 255, 255, 100 }</string>
+		<key>textFont</key>
+		<string>Helvetica Neue Light/36</string>
+	</dict>
+	<dict>
+		<key>name</key>				<string>foilText</string>
+		<key>textFont</key>			<string>Helvetica Neue/36</string>
+		<key>userHidden</key>		<true/>
+	</dict>	
+	<!--dict>
+		<key>name</key>
+		<string>Helvetica Neue Light/36/BlackBackground</string>
+		<key>textColor</key>
+		<string>{ 0, 0, 0, 100 }</string>
+		<key>textFont</key>
+		<string>Helvetica Neue Light/36</string>
+	</dict-->
+	<dict>
+		<key>name</key>
+		<string>Helvetica Neue Light/10/WhiteBackground</string>
+		<key>textColor</key>
+		<string>{ 255, 255, 255, 100 }</string>
+		<key>textFont</key>
+		<string>Helvetica Neue Light/10</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Helvetica Neue/10/WhiteBackground</string>
+		<key>textColor</key>
+		<string>{ 255, 255, 255, 100 }</string>
+		<key>textFont</key>
+		<string>Helvetica Neue/10</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>PageNumber</string>
+		<key>textColor</key>
+		<string>{ 129, 131, 134, 100 }</string>
+		<key>textFont</key>
+		<string>Helvetica Neue Light/10</string>
+		<key>userHidden</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Helvetica Neue Light/8/WhiteBackground</string>
+		<key>textColor</key>
+		<string>{ 255, 255, 255, 100 }</string>
+		<key>textFont</key>
+		<string>Helvetica Neue Light/8</string>
+	</dict>
+	<dict>
+		<key>name</key>				<string>PageNumber</string>
+		<key>textFont</key>			<string>Helvetica Neue Light/10</string>
+		<key>userHidden</key>		<true/>
+    </dict>
+</array>
+</plist>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	
+	<dict>
+		<key>name</key>  		<string>PlateNumberCaption</string>
+		<key>format</key>		<string>%@%@</string>
+		<key>properties</key>
+			<array>    
+				<string>bookProperties.PlateNameDotSpace</string>
+				<string>iptcProperties.Caption/Abstract</string>
+			</array> 
+	</dict>
+	
+	<dict>
+		<key>name</key>  		<string>PlateNumber</string>
+		<key>format</key>		<string>%@</string>
+		<key>properties</key>
+			<array>    
+				<string>bookProperties.PlateNameDot</string>
+			</array> 
+	</dict>
+	<dict>
+		<key>name</key>  		<string>NameOnly</string>
+		<key>format</key>		<string>%@ / %@</string>
+		<key>properties</key>
+			<array>    
+				<string>bookProperties.PageNumber</string>
+				<string>basicProperties.VersionName</string>
+			</array> 
+	</dict>
+	
+	<dict>
+		<key>name</key>  		<string>IndexTextTitle</string>
+		<key>format</key>		<string>%@ / %@ \n%@</string>
+		<key>properties</key>
+			<array>    
+				<string>bookProperties.PageNumber</string>
+				<string>basicProperties.VersionName</string>
+				<string>exifProperties.ImageDate</string>
+			</array> 
+	</dict>
+	
+	<dict>
+		<key>name</key>  		<string>IndexText</string>
+		<key>format</key>		<string>%@</string>
+		<key>properties</key>
+			<array>    
+				<string>iptcProperties.Caption/Abstract</string>
+			</array> 
+	</dict>
+		   
+	<dict>
+		<key>name</key>    		<string>ImageDepthSize</string>
+		<key>format</key>		<string>Digital: %@</string>
+		<key>properties</key>
+			<array>
+				<string>basicProperties.ProcessedPixelSize</string>
+			</array> 
+	</dict>	
+
+	<dict>
+		<key>name</key>    		<string>ImageRights</string>
+		<key>format</key>		<string>Rights: %@</string>
+		<key>properties</key>
+			<array>    
+				<string>iptcProperties.CopyrightNotice</string>
+			</array> 
+	</dict>	   
+
+	<dict>
+		<key>name</key>			<string>BasicEXIF</string>
+		<key>format</key>		<string>Focal length: %@</string>
+		<key>properties</key>
+			<array>    
+				<string>exifProperties.FocalLength</string>
+			</array> 
+	</dict>	   
+
+	<dict>
+		<key>name</key>			<string>IndexAperture</string>
+		<key>format</key>		<string>Aperture: %@</string>
+		<key>properties</key>
+			<array>    
+				<string>exifProperties.ApertureValue</string>
+			</array> 
+		<key>separator</key>	<true/>
+	</dict>	
+	
+	<dict>
+		<key>name</key>  		<string>PlateCaption</string>
+		<key>format</key>		<string>%@</string>
+		<key>properties</key>
+			<array>    
+				<string>iptcProperties.Caption/Abstract</string>
+			</array> 
+	</dict>
+	<dict>
+		<key>name</key>  		<string>VersionName</string>
+		<key>format</key>		<string>%@</string>
+		<key>properties</key>
+			<array>    
+				<string>basicProperties.VersionName</string>
+			</array> 
+	</dict>
+	<dict>
+		<key>name</key>  		<string>Filename</string>
+		<key>format</key>		<string>%@</string>
+		<key>properties</key>
+			<array>    
+				<string>basicProperties.FileName</string>
+			</array> 
+		<key>separator</key>	<true/>
+	</dict>
+	<dict>
+		<key>name</key>  		<string>Credit</string>
+		<key>format</key>		<string>%@</string>
+		<key>properties</key>
+			<array>    
+				<string>iptcProperties.Credit</string>
+			</array> 
+	</dict>
+	<dict>
+		<key>name</key>  		<string>Copyright</string>
+		<key>format</key>		<string>%@</string>
+		<key>properties</key>
+			<array>    
+				<string>iptcProperties.CopyrightNotice</string>
+			</array> 
+		<key>separator</key>	<true/>
+	</dict>
+	<dict>
+		<key>name</key>  		<string>Comments</string>
+		<key>format</key>		<string>%@</string>
+		<key>properties</key>
+			<array>    
+				<string>basicProperties.Comments</string>
+			</array> 
+	</dict>
+	<dict>
+		<key>name</key>  		<string>Keywords</string>
+		<key>format</key>		<string>%@</string>
+		<key>properties</key>
+			<array>    
+				<string>iptcProperties.Keywords</string>
+			</array> 
+		<key>separator</key>	<true/>
+	</dict>
+	<dict>
+		<key>name</key>  		<string>DateTime</string>
+		<key>format</key>		<string>%@</string>
+		<key>properties</key>
+			<array>    
+				<string>exifProperties.ImageDate</string>
+			</array> 
+	</dict>
+	<dict>
+		<key>name</key>  		<string>Aperture</string>
+		<key>format</key>		<string>%@</string>
+		<key>properties</key>
+			<array>    
+				<string>exifProperties.ApertureValue</string>
+			</array> 
+	</dict>
+	<dict>
+		<key>name</key>  		<string>Shutter</string>
+		<key>format</key>		<string>%@</string>
+		<key>properties</key>
+			<array>    
+				<string>exifProperties.ShutterSpeed</string>
+			</array> 
+	</dict>
+</array>
+</plist>
